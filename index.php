@@ -1,7 +1,7 @@
 <html>
 <head>
 <style>
-body { background-color: green }
+body { background-color: gray }
 </style>
 </head>
 <body>
